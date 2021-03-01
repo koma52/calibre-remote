@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Calibre Remote
+GenericName=Remote e-book library management
+Comment=It's Calibre, but configured to work with a remote Calibre library
+Exec=calibre-remote
+Terminal=true
+Icon=calibre-gui
+Type=Application
+Categories=Office;
+StartupNotify=false
